@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #eeeeee;
+    margin: 20px;
+    text-align: center;
+    background-color: #E06D68;
+}
+
+.bloque {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.portada {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: #444444;
+}
